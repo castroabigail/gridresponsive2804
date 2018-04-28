@@ -1,0 +1,22 @@
+header{
+	margin-top: 15%;
+}
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+ 
+}
+li{
+	float: left;
+	color: white;
+	padding: 5px;
+	list-style: none;
+	margin-right: 120px;
+	margin-top: 5%;
+	}
+a{
+	text-decoration:none; 
+	color: black;
+	font-size: 20px;
+}
